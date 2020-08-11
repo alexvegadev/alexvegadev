@@ -16,6 +16,10 @@ Backend Skills: Java Spring Framework, Hibernate / NodeJS
 
 Database Skills: MySQL, SQL, PostgreSQL, MongoDB.
 
+Extra Skills: Firebase, agile methodology(Scrum & Kanban) with Jira software, Basic concepts of machine learning(I'm able to do basic predictions and analytics).
+
+Language skills: English(Professional)
+
 ### My current works
 #### My last two projects
 [VidaxVidas Blood donation](https://vidaxvidas.herokuapp.com/)
