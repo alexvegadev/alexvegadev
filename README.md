@@ -9,9 +9,15 @@ Hello, my name is Alex, I'm currently working as a software freelance developer 
 I'm started to code when I was about 12 years old, at the beginning just was curiosity, curiosity about the next: "How can I do applications such as Google Chrome, games, etc?" then I started to search information in Google and YouTube, and I found C++ tutorials.
 From then, I've been learning a lot of concepts and programming languages.
 
-### My programming skills:
+### My programming skills
 Frontend Skills: VUE JS / REACT / ANGULAR / JS / HTML / CSS / SASS.
 
 Backend Skills: Java Spring Framework, Hibernate / NodeJS 
 
 Database Skills: MySQL, SQL, PostgreSQL, MongoDB.
+
+### My current works
+#### My last two projects
+[VidaxVidas Blood donation](https://vidaxvidas.herokuapp.com/)
+
+[Online Shop](https://mtienda.herokuapp.com/)
