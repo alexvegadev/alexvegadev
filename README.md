@@ -2,7 +2,7 @@
 
 ![Full Stack Banner](https://metricoidtech.com/wp-content/uploads/2019/03/banner-meanstack-background.png)
 
-### Who I'm?
+### Who Am I?
 Hello, my name is Alex, I'm currently working as a software freelance developer and I'm looking for get new opportunities to get a job and stay learning more and more.
 
 ### When I started to code?
