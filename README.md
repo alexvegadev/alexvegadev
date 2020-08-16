@@ -16,14 +16,18 @@ Backend Skills: Java(Spring Framework, Hibernate) / NodeJS / Python(Flask).
 
 Mobile Development: Native Apps(With Java) / Ionic / Cordova.
 
-Database Skills: MySQL, SQL, PostgreSQL, MongoDB.
+Database Skills: MySQL, SQL, PostgreSQL, MongoDB(Advanced knowledge about: Triggers, stored procedures and functions).
 
 Extra Skills: Firebase, Heroku, agile methodology(Scrum & Kanban) with Jira software, Basic concepts of machine learning(I'm able to do basic predictions and analytics),
 
-Language skills: English(Professional proficiency), Portugues(Professional proficiency), Spanish(Native proficiency).
+Language skills: English(Professional fluent proficiency), Portugues(Professional fluent proficiency), Spanish(Native proficiency).
 
 ### My current works
 #### My last two projects(currently working)
 [VidaxVidas Blood donation](https://vidaxvidas.herokuapp.com/)
 
 [Online Shop](https://mtienda.herokuapp.com/)
+
+### Contact
+[Website/Portfolio (Under development yet)](https://alexvegadev-portfolio.herokuapp.com/)
+[LinkedIn](https://www.linkedin.com/in/alex-gabriel-peiretti-vega-73312a191/)
