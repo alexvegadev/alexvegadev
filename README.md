@@ -31,6 +31,6 @@ Language skills: English(Professional proficiency), Portugues(Professional profi
 
 
 ### Contact
-[Website/Portfolio (Under development yet)](https://alexvegadev-portfolio.herokuapp.com/)
+[Website/Portfolio (Under development yet)](https://avdev-portfolio.herokuapp.com/)
 
 [LinkedIn](https://www.linkedin.com/in/alex-gabriel-peiretti-vega-73312a191/)
