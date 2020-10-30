@@ -14,20 +14,21 @@ Frontend Skills: VUE JS / REACT / ANGULAR / JS / HTML / CSS / SASS.
 
 Backend Skills: Java(Spring Framework, Hibernate) / NodeJS / Python(Flask).
 
-Mobile Development: Native Apps(With Java) / Ionic / Cordova.
+Mobile Development: Native Apps(With Java) / React Native / Flutter.
 
-Database Skills: MySQL, SQL, PostgreSQL, MongoDB(Advanced knowledge about: Triggers, stored procedures and functions).
+Database Skills: Teradata, MySQL, SQL, PostgreSQL, MongoDB(Advanced knowledge about: Triggers, stored procedures and functions).
 
 Extra Skills: Firebase, DevOps(Heroku, AWS, IBM Cloud), agile methodology(Scrum & Kanban) with Jira software, Basic concepts of machine learning(I'm able to do basic predictions and analytics),
 
 Language skills: English(Professional proficiency), Portugues(Professional proficiency), Spanish(Native proficiency).
 
 ### My current works
-#### My last two projects(currently working)
+#### My last project(currently working)
 [VidaxVidas Blood donation](https://vidaxvidas.herokuapp.com/)
 
-[Online Shop](https://mtienda.herokuapp.com/)
 ## Projects
+
+[Online Shop](https://mtienda.herokuapp.com/)
 
 
 ### Contact
