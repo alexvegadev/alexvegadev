@@ -10,9 +10,9 @@ I'm started to code when I was about 12 years old, at the beginning just was cur
 From then, I've been learning a lot of concepts and programming languages.
 
 ### My skills
-Frontend Skills: VUE JS / REACT / ANGULAR / JS / HTML / CSS / SASS.
+Frontend Skills: VUE JS / REACT / JS / HTML / CSS / SASS.
 
-Backend Skills: Java(Spring Framework, Hibernate) / NodeJS / Python(Flask).
+Backend Skills: Java (Spring Framework, Hibernate).
 
 Mobile Development: Native Apps(With Java) / React Native / Flutter.
 
@@ -22,16 +22,11 @@ Extra Skills: Firebase, DevOps(Heroku, AWS, IBM Cloud), agile methodology(Scrum 
 
 Language skills: English(Professional proficiency), Portugues(Professional proficiency), Spanish(Native proficiency).
 
-### My current works
-#### My last project(currently working)
-[VidaxVidas Blood donation](https://vidaxvidas.herokuapp.com/)
-
 ## Projects
 
-[Online Shop](https://mtienda.herokuapp.com/)
+[Online Shop]
 
 
 ### Contact
-[Website/Portfolio (Under development yet)](https://avdev-portfolio.herokuapp.com/)
 
 [LinkedIn](https://www.linkedin.com/in/alex-gabriel-peiretti-vega-73312a191/)
